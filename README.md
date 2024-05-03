@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joseph-lang7.joseph-lang7" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joseph.lang.joseph.lang" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joseph+Lang!;" />
@@ -33,18 +33,11 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,gitlab,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,gitlab,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,nextjs,mysql,postgres,django,docker" /><br>
 </div>
 
 <br/>
-
-<div align="center">
-  <h2>My Contributions </h2>
-  <br>
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/joseph-lang7/joseph-lang7/output/github-contribution-grid-snake.svg">
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Have+A+Coffee!;" />
 </h1>
