@@ -9,11 +9,9 @@
 <br/>
 
 <div align="center">
-
-🌱 I’m currently learning **TypeScript & NextJS**
-
+    
 ⚡ Fun fact **Bananas are berries, but strawberries aren't.**
-
+    
  </div>
 
 <div align="center">
